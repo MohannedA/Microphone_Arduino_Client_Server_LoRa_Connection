@@ -7,7 +7,7 @@ Sender: Sound + LoRa Shield             |   Receiver: LoRa Shield
 
 ## Basic Idea
 
-![s](basic_idea.jpeg)
+![s](basic_idea.jpg)
  
 - Client send microphone and vibration sensors data (JSON object) to the server via LoRa shield.
 - Server (connected to PC) receives data via LoRa shield to process it later. 
@@ -17,5 +17,10 @@ Sender: Sound + LoRa Shield             |   Receiver: LoRa Shield
 
 ## Devices and Components Used 
 
-![s](devices.jpeg)
+![s](devices.jpg)
+
+## Authors 
+
+* Abdulrhman Saad
+* Mohanned Ahmed 
 
