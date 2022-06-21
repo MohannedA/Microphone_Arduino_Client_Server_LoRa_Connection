@@ -19,8 +19,7 @@ Sender: Sound + LoRa Shield             |   Receiver: LoRa Shield
 
 ![s](devices.jpg)
 
-## Authors 
+## Other Authors 
 
 * Abdulrhman Saad
-* Mohanned Ahmed 
 
